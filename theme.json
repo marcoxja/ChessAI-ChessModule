@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "#textbox": {
+            "font": "arial",
+            "font_size": 18,
+            "normal_bg": "#000000",  
+            "border_width": 0,    
+            "text_horiz_alignment": "left",
+            "text_vert_alignment": "top",
+            "text_colour": "#FFFFFF"  
+        }
+    }
+}

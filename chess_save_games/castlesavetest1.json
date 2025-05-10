@@ -1,0 +1,198 @@
+{
+    "moveData": [
+        {
+            "startRow": 6,
+            "startCol": 5,
+            "endRow": 4,
+            "endCol": 5,
+            "pieceMoved": "wP",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 1,
+            "startCol": 4,
+            "endRow": 3,
+            "endCol": 4,
+            "pieceMoved": "bP",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 6,
+            "startCol": 4,
+            "endRow": 4,
+            "endCol": 4,
+            "pieceMoved": "wP",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 3,
+            "startCol": 4,
+            "endRow": 4,
+            "endCol": 5,
+            "pieceMoved": "bP",
+            "pieceCaptured": "wP",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 7,
+            "startCol": 5,
+            "endRow": 4,
+            "endCol": 2,
+            "pieceMoved": "wB",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 0,
+            "startCol": 5,
+            "endRow": 3,
+            "endCol": 2,
+            "pieceMoved": "bB",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 7,
+            "startCol": 6,
+            "endRow": 5,
+            "endCol": 5,
+            "pieceMoved": "wN",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 0,
+            "startCol": 6,
+            "endRow": 2,
+            "endCol": 5,
+            "pieceMoved": "bN",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 7,
+            "startCol": 3,
+            "endRow": 6,
+            "endCol": 4,
+            "pieceMoved": "wQ",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 0,
+            "startCol": 4,
+            "endRow": 0,
+            "endCol": 6,
+            "pieceMoved": "bK",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": true
+        }
+    ],
+    "boardData": [
+        [
+            "bR",
+            "bN",
+            "bB",
+            "bQ",
+            "--",
+            "bR",
+            "bK",
+            "--"
+        ],
+        [
+            "bP",
+            "bP",
+            "bP",
+            "bP",
+            "--",
+            "bP",
+            "bP",
+            "bP"
+        ],
+        [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--",
+            "bN",
+            "--",
+            "--"
+        ],
+        [
+            "--",
+            "--",
+            "bB",
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+        ],
+        [
+            "--",
+            "--",
+            "wB",
+            "--",
+            "wP",
+            "bP",
+            "--",
+            "--"
+        ],
+        [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--",
+            "wN",
+            "--",
+            "--"
+        ],
+        [
+            "wP",
+            "wP",
+            "wP",
+            "wP",
+            "wQ",
+            "--",
+            "wP",
+            "wP"
+        ],
+        [
+            "wR",
+            "wN",
+            "wB",
+            "--",
+            "wK",
+            "--",
+            "--",
+            "wR"
+        ]
+    ],
+    "capturedData": [],
+    "turnData": true
+}

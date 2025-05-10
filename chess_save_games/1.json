@@ -1,0 +1,145 @@
+{
+    "moveData": [
+        {
+            "startRow": 6,
+            "startCol": 4,
+            "endRow": 4,
+            "endCol": 4,
+            "pieceMoved": "wP",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        },
+        {
+            "startRow": 1,
+            "startCol": 3,
+            "endRow": 3,
+            "endCol": 3,
+            "pieceMoved": "bP",
+            "pieceCaptured": "--",
+            "isPawnPromotion": false,
+            "isEnpassantMove": false,
+            "isCastleMove": false
+        }
+    ],
+    "boardData": [
+        [
+            "bR",
+            "bN",
+            "bB",
+            "bQ",
+            "bK",
+            "bB",
+            "bN",
+            "bR"
+        ],
+        [
+            "bP",
+            "bP",
+            "bP",
+            "--",
+            "bP",
+            "bP",
+            "bP",
+            "bP"
+        ],
+        [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+        ],
+        [
+            "--",
+            "--",
+            "--",
+            "bP",
+            "--",
+            "--",
+            "--",
+            "--"
+        ],
+        [
+            "--",
+            "--",
+            "--",
+            "--",
+            "wP",
+            "--",
+            "--",
+            "--"
+        ],
+        [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+        ],
+        [
+            "wP",
+            "wP",
+            "wP",
+            "wP",
+            "--",
+            "wP",
+            "wP",
+            "wP"
+        ],
+        [
+            "wR",
+            "wN",
+            "wB",
+            "wQ",
+            "wK",
+            "wB",
+            "wN",
+            "wR"
+        ]
+    ],
+    "capturedData": [],
+    "turnData": true,
+    "wKingLocation": [
+        7,
+        4
+    ],
+    "bKingLocation": [
+        0,
+        4
+    ],
+    "castleRights": {
+        "wK": true,
+        "wQ": true,
+        "bK": true,
+        "bQ": true
+    },
+    "castleRightsLog": [
+        {
+            "wK": true,
+            "wQ": true,
+            "bK": true,
+            "bQ": true
+        },
+        {
+            "wK": true,
+            "wQ": true,
+            "bK": true,
+            "bQ": true
+        },
+        {
+            "wK": true,
+            "wQ": true,
+            "bK": true,
+            "bQ": true
+        }
+    ],
+    "enpassantPosData": []
+}
